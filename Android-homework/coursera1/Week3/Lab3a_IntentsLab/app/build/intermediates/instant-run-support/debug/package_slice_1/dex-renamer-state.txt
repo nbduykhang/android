@@ -1,0 +1,4 @@
+#Wed Feb 14 20:28:18 ICT 2018
+base.0=F\:\\Coursera\\Week3\\Lab3a_IntentsLab\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+path.0=classes.dex
+renamed.0=classes.dex

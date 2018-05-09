@@ -1,0 +1,81 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Android-homework\coursera1\Week3\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:2:1-55:12
+INJECTED from D:\Android-homework\coursera1\Week3\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:2:1-55:12
+INJECTED from D:\Android-homework\coursera1\Week3\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:2:1-55:12
+INJECTED from D:\Android-homework\coursera1\Week3\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:2:1-55:12
+INJECTED from D:\Android-homework\coursera1\Week3\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:2:1-55:12
+INJECTED from D:\Android-homework\coursera1\Week3\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:2:1-55:12
+INJECTED from D:\Android-homework\coursera1\Week3\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:2:1-55:12
+	package
+		ADDED from D:\Android-homework\coursera1\Week3\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from D:\Android-homework\coursera1\Week3\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android-homework\coursera1\Week3\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\Android-homework\coursera1\Week3\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\Android-homework\coursera1\Week3\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android-homework\coursera1\Week3\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Android-homework\coursera1\Week3\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\Android-homework\coursera1\Week3\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\Android-homework\coursera1\Week3\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android-homework\coursera1\Week3\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from D:\Android-homework\coursera1\Week3\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\Android-homework\coursera1\Week3\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\Android-homework\coursera1\Week3\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\Android-homework\coursera1\Week3\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\Android-homework\coursera1\Week3\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from D:\Android-homework\coursera1\Week3\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from D:\Android-homework\coursera1\Week3\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android-homework\coursera1\Week3\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\Android-homework\coursera1\Week3\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from D:\Android-homework\coursera1\Week3\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android-homework\coursera1\Week3\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml
+permission#course.labs.permissions.DANGEROUS_ACTIVITY_PERM
+ADDED from D:\Android-homework\coursera1\Week3\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:17:5-19:58
+	android:protectionLevel
+		ADDED from D:\Android-homework\coursera1\Week3\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:19:9-44
+	android:name
+		ADDED from D:\Android-homework\coursera1\Week3\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:18:9-71
+application
+ADDED from D:\Android-homework\coursera1\Week3\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:22:5-53:19
+	android:label
+		ADDED from D:\Android-homework\coursera1\Week3\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:25:9-41
+	android:icon
+		ADDED from D:\Android-homework\coursera1\Week3\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:24:9-45
+	android:allowBackup
+		ADDED from D:\Android-homework\coursera1\Week3\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:23:9-35
+	android:theme
+		ADDED from D:\Android-homework\coursera1\Week3\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:26:9-40
+activity#course.labs.dangerousapp.DangerousActivity
+ADDED from D:\Android-homework\coursera1\Week3\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:30:9-52:20
+	android:label
+		ADDED from D:\Android-homework\coursera1\Week3\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:32:13-45
+	android:permission
+		ADDED from D:\Android-homework\coursera1\Week3\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:33:13-81
+	android:name
+		ADDED from D:\Android-homework\coursera1\Week3\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:31:13-46
+intent-filter#action:name:course.labs.permissions.DANGEROUS_ACTIVITY+category:name:android.intent.category.DEFAULT
+ADDED from D:\Android-homework\coursera1\Week3\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:40:13-44:29
+action#course.labs.permissions.DANGEROUS_ACTIVITY
+ADDED from D:\Android-homework\coursera1\Week3\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:41:17-85
+	android:name
+		ADDED from D:\Android-homework\coursera1\Week3\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:41:25-82
+category#android.intent.category.DEFAULT
+ADDED from D:\Android-homework\coursera1\Week3\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:43:17-75
+	android:name
+		ADDED from D:\Android-homework\coursera1\Week3\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:43:27-73
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Android-homework\coursera1\Week3\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:47:13-51:29
+action#android.intent.action.MAIN
+ADDED from D:\Android-homework\coursera1\Week3\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:48:17-69
+	android:name
+		ADDED from D:\Android-homework\coursera1\Week3\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:48:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Android-homework\coursera1\Week3\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:50:17-77
+	android:name
+		ADDED from D:\Android-homework\coursera1\Week3\Lab3b_DangerousApp\app\src\main\AndroidManifest.xml:50:27-74

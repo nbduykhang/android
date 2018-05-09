@@ -1,0 +1,4 @@
+#Wed May 09 10:57:29 ICT 2018
+base.0=D\:\\Android-homework\\coursera1\\Week3\\Lab3a_MyBrowser\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\3
+path.0=classes.dex
+renamed.0=classes.dex
